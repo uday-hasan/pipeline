@@ -1,7 +1,7 @@
-console.log("Starting test")
+console.log("Starting test");
 
 setTimeout(() => {
-   console.log("Testing") 
+                console.log("Testing") ;
 }, 3000);
 
-console.log("Test complete")
+console.log("Test complete");
